@@ -1,1 +1,1 @@
-first vommit
+snapshots for command line for the win
